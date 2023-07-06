@@ -1,0 +1,8 @@
+ul > a {
+  color: #72859d;
+}
+ul > a:active,
+ul > a:focus,
+ul > a:hover {
+  color: blue;
+}

@@ -1,0 +1,49 @@
+hr {
+  margin: 0;
+}
+.for-style-paddding {
+  padding: 0px 0 0 20px;
+}
+.for-style {
+  padding: 13.5px 0;
+}
+
+@media screen and (min-width: 768px) {
+  .update-activity-section {
+    width: 65%;
+  }
+  .only-accrod {
+    width: 35%;
+  }
+}
+
+.main-div-accordion-plus-another {
+  width: 100%;
+}
+/* .only-accrod {
+  padding: 0 15px;
+} */
+li {
+  list-style: none;
+  padding: 8px 5px;
+}
+.update-activity-section {
+  padding: 15px 15px;
+}
+.css-heg063-MuiTabs-flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.MuiTabs-indicator {
+  display: none;
+}
+.svg-styled {
+  transform: rotate(-107deg);
+  transform: translateX(88px);
+  fill: "#7a7a7a";
+}
+
+/* pop up  */
+
+/* pop up  */

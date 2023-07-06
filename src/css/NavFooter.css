@@ -1,0 +1,10 @@
+.svg-style {
+  padding-left: 70px;
+}
+
+@media screen and (max-width: 768px) {
+  .logo-style,
+  .icons-div {
+    display: none;
+  }
+}
