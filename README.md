@@ -1,6 +1,15 @@
 # Edge-crm
+1 : Screenshot
+![Screenshot from 2023-04-14 15-40-31](https://github.com/Sohelnm1/edgeCRM/assets/99077966/48cbd40e-0bce-4150-9c43-624f032271f1)
 
+2 : Screenshot
+![Screenshot from 2023-04-28 17-15-31](https://github.com/Sohelnm1/edgeCRM/assets/99077966/d6fef3f1-12e2-42fc-86b7-afb4cc6d70ac)
 
+3 : Screenshot
+![Screenshot from 2023-06-06 23-23-58](https://github.com/Sohelnm1/edgeCRM/assets/99077966/9e64774d-78a1-4300-ad06-98a6d0e433e8)
+
+4 : Screenshot
+![Screenshot from 2023-06-06 23-24-09](https://github.com/Sohelnm1/edgeCRM/assets/99077966/ca6f871d-cde5-4a04-bb41-19824c556d55)
 
 ## Getting started
 
